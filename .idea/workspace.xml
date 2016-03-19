@@ -63,6 +63,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
+=======
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nik/smartnote/vk/Model/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="53" column="61" selection-start-line="53" selection-start-column="61" selection-end-line="53" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> d38c6c0f1cc04ce243852b7ae432fe3bcdf1b4e9
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nik/smartnote/vk/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -133,7 +146,11 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="gradle.properties" pinned="false" current-in-tab="false">
+=======
+      <file leaf-file-name="gradle.properties" pinned="false" current-in-tab="true">
+>>>>>>> d38c6c0f1cc04ce243852b7ae432fe3bcdf1b4e9
         <entry file="file://$PROJECT_DIR$/gradle.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
@@ -143,6 +160,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="BossBotActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nik/smartnote/vk/BossBotActivity.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -166,6 +184,16 @@
           <provider selected="true" editor-type-id="android-designer">
             <state />
           </provider>
+=======
+      <file leaf-file-name="SettingsActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nik/smartnote/vk/SettingsActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+>>>>>>> d38c6c0f1cc04ce243852b7ae432fe3bcdf1b4e9
         </entry>
       </file>
     </leaf>
@@ -174,8 +202,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+<<<<<<< HEAD
         <option value="resourceFile" />
         <option value="layoutResourceFile_vertical" />
+=======
+        <option value="layoutResourceFile_vertical" />
+        <option value="resourceFile" />
+>>>>>>> d38c6c0f1cc04ce243852b7ae432fe3bcdf1b4e9
       </list>
     </option>
   </component>
@@ -1525,8 +1558,11 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/nik/smartnote/vk/MainMenu.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/nik/smartnote/vk/Model/User.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/nik/smartnote/vk/MainActivity.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/app/src/main/java/com/nik/smartnote/vk/BossBotActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/task_layout.xml" />
+=======
+>>>>>>> d38c6c0f1cc04ce243852b7ae432fe3bcdf1b4e9
       </list>
     </option>
   </component>
@@ -1601,6 +1637,7 @@
               <option name="myItemId" value="vk" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1664,6 +1701,11 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="vk" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+=======
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
+>>>>>>> d38c6c0f1cc04ce243852b7ae432fe3bcdf1b4e9
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1671,6 +1713,7 @@
               <option name="myItemId" value="vk" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
@@ -1697,6 +1740,8 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
+=======
+>>>>>>> d38c6c0f1cc04ce243852b7ae432fe3bcdf1b4e9
           </PATH>
         </subPane>
       </pane>
@@ -1958,6 +2003,16 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nik/smartnote/vk/util/PrissonManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> d38c6c0f1cc04ce243852b7ae432fe3bcdf1b4e9
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nik/smartnote/vk/BossBotActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2188,6 +2243,16 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nik/smartnote/vk/BossBotActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> d38c6c0f1cc04ce243852b7ae432fe3bcdf1b4e9
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nik/smartnote/vk/AttakFriendActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5903614">
@@ -2213,7 +2278,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.344828">
           <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> d38c6c0f1cc04ce243852b7ae432fe3bcdf1b4e9
         </state>
       </provider>
       <provider editor-type-id="android-designer">
@@ -2231,7 +2299,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.333333">
           <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> d38c6c0f1cc04ce243852b7ae432fe3bcdf1b4e9
         </state>
       </provider>
     </entry>
@@ -2239,7 +2310,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.172414">
           <caret line="117" column="32" selection-start-line="117" selection-start-column="32" selection-end-line="117" selection-end-column="32" />
+<<<<<<< HEAD
           <folding />
+=======
+>>>>>>> d38c6c0f1cc04ce243852b7ae432fe3bcdf1b4e9
         </state>
       </provider>
       <provider editor-type-id="android-designer">
@@ -2347,6 +2421,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nik/smartnote/vk/BossBotActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2368,5 +2443,7 @@
         <state />
       </provider>
     </entry>
+=======
+>>>>>>> d38c6c0f1cc04ce243852b7ae432fe3bcdf1b4e9
   </component>
 </project>
